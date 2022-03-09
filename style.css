@@ -1,0 +1,46 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+
+}
+
+.fan{
+    width: 20%;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 20px;
+    position: center;
+}
+
+.kitchen{
+    width: 20%;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 20px;
+    position: center;
+}
+
+.toy{
+    width: 20%;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 20px;
+    position: center;
+}
+
+.fruit{
+    width: 20%;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 20px;
+    position: center;
+}
+
+.bed{
+    width: 20%;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 20px;
+    position: center;
+}
